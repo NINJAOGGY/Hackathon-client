@@ -9,7 +9,7 @@ const emergencyContacts = [
 
 export default function EmergencyContacts() {
   return (
-    <div className="p-4 shadow-lg rounded-lg bg-white border border-gray-400">
+    <div className="p-4 shadow-lg rounded-lg bg-white border border-gray-400 w-[10cm]">
       <div className="text-xl font-bold mb-4">Emergency Contacts</div>
       <div className="space-y-4">
         <ul className="space-y-2">

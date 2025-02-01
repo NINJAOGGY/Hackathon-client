@@ -64,7 +64,7 @@ export default function Footer() {
             </div>
           </div>
         </div>
-        <div className="mt-8 pt-8 border-t border-gray-200 text-center">
+        <div className="mt-4 pt-4 border-t border-gray-200 text-center">
           <p className="text-sm">© {new Date().getFullYear()} Disaster Management Dashboard. All rights reserved.</p>
         </div>
       </div>
